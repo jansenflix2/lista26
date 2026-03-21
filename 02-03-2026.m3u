@@ -22,3 +22,5 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere4/play2.m3u8?t
 http://needsorinletsgo.store.global.prod.fastly.net/live3/stlatv1/play2.m3u8?token=1774215750_3543139a231a56d2d359a611be6ccfe6886b781c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",TNT
 http://needsorinletsgo.store.global.prod.fastly.net/live/tnt/play2.m3u8?token=1774216012_7eff87ec68c415031a75ddcaa394c847b931c6b3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",TNT PLY1
+http://needsorinletsgo.store.global.prod.fastly.net/live/tnt/play1.m3u8?token=1774216012_7eff87ec68c415031a75ddcaa394c847b931c6b3
