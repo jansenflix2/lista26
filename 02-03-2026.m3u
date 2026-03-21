@@ -8,17 +8,17 @@ http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_espn2/play2.m3u8?token=1774204299_880c49eb76c3ed531133f3c863d92a75de9196c1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCJMDJw.png" group-title="PL ⭐ POLSKA",ESPN 3
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_espn3/play2.m3u8?token=1774204539_4271ad8098deb2bc6a772daf640a45ee797d24e6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6pae85.png" group-title="PL ⭐ POLSKA",PREMIER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6pae85.png" group-title="PL ⭐ POLSKA",PREMIERE
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774206047_49a2c7ca8f7970874bd484b29ed49dee687079d4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cSXBqk.png" group-title="PL ⭐ POLSKA",TVP HD
-http://d67.euvip.xyz:8080/play/live.php?mac=00:1A:79:10:40:DF&stream=8292&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwLlzvJ.png" group-title="PL ⭐ POLSKA",TVP 1 FHD
-http://d67.euvip.xyz:8080/play/live.php?mac=00:1A:79:10:40:DF&stream=162410&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sv5dOme.png" group-title="PL ⭐ POLSKA",TVP 1 HD
-http://d67.euvip.xyz:8080/play/live.php?mac=00:1A:79:10:40:DF&stream=8293&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TfBMU5P.png" group-title="PL ⭐ POLSKA",TVP 2 FHD
-http://d67.euvip.xyz:8080/play/live.php?mac=00:1A:79:10:40:DF&stream=162412&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xgtmwQT.png" group-title="PL ⭐ POLSKA",TVP 2 HD
-http://d67.euvip.xyz:8080/play/live.php?mac=00:1A:79:10:40:DF&stream=8294&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cSXBqk.png" group-title="PL ⭐ POLSKA",ESPN
+http://needsorinletsgo.store.global.prod.fastly.net/live1/espn/play1.m3u8?token=1774216297_73d26393dee529f0e646ba8ed085d87515aac600
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwLlzvJ.png" group-title="PL ⭐ POLSKA",PREMIERE 2
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774210931_0f37cb97593296079d016439753768c25feef7ce
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sv5dOme.png" group-title="PL ⭐ POLSKA",PREMIERE 3
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774212224_2f703f4e90ebe7966daf0edbe3f254197bd2e353
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfBMU5P.png" group-title="PL ⭐ POLSKA",PREMIERE 4
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere4/play2.m3u8?token=1774212402_8e6e9284cb113d156199b0ff4a1f454e4a026619
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgtmwQT.png" group-title="PL ⭐ POLSKA",AMAZON PRIME
+http://needsorinletsgo.store.global.prod.fastly.net/live3/stlatv1/play2.m3u8?token=1774215750_3543139a231a56d2d359a611be6ccfe6886b781c
 
 
