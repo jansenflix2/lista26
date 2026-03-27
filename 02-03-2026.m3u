@@ -571,3 +571,50 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.png" group-title="🌎Variedades", Canal gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/playtv.png" group-title="🌎Variedades", Play TV
+
+
+ 
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="ESPORTE",[COLOR orange](ESPORTE)[/COLOR]
+http://
+
+
+#EXTINF:-1,PREMIERE CLUB
+http://95.211.149.215:8081/look/pfcc/playlist.m3u8
+
+#EXTINF:-1,BAND SPORTS 
+http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv.png",SPORTV
+http://95.141.35.86:8081/look/sportvr/playlist.m3u8
+
+#EXTINF:-1,ESPN (EM MANUNTECAO)
+
+
+#EXTINF:-1,ESPN BRASIL
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+
+#EXTINF:-1,ESPORTE INTERATIVO
+https://mdstrm1-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?dnt=true&es=mdstrm1-a.akamaihd.net&proto=https#ffmpeg
+
+#EXTINF:-1,EI MAXX (EM MANUNTECAO)
+
+
+#EXTINF:-1,EI MAXX 2 (EM MANUNTECAO)
+
+
+#EXTINF:-1,FOX SPORTS
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+ 
+#EXTINF:-1,FOX SPORTS 2 (EM MANUNTECAO)
+
+ 
+#EXTINF:-1,COMBATE 
+http://95.141.32.213:8081/look/combatel/playlist.m3u8
+
+#EXTINF:-1,ALL SPORTS TV 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
