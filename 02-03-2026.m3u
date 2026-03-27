@@ -7,7 +7,7 @@ http://95.141.35.86:8081/look/sptvl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 2
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP183-Pesadelo_de_coelho.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 3
-http://needsorinletsgo.store.global.prod.fastly.net/live3/z_espn3/play2.m3u8?token=1774204539_4271ad8098deb2bc6a772daf640a45ee797d24e6
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774206047_49a2c7ca8f7970874bd484b29ed49dee687079d4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN
