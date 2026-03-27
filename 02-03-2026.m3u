@@ -58,7 +58,6 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viagemnaeletricidade.png" group-title="Viagem na Eletricidade", Viagem na Eletricidade Parte 4
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/viagemnaletricidade.parte4.mp4
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",000_Abertura
 https://raw.githubusercontent.com/mariosanthos/arquivos/main/Abertura%20A%20Hora%20Warner.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP001-Adoro_receber_ordens_de_voce
@@ -572,17 +571,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/playtv.png" group-title="🌎Variedades", Play TV
 
-
- 
-
-
-
-
-
-#EXTINF:-1 tvg-logo= group-title="ESPORTE",[COLOR orange](ESPORTE)[/COLOR]
-http://
-
-
 #EXTINF:-1,PREMIERE CLUB
 http://95.211.149.215:8081/look/pfcc/playlist.m3u8
 
@@ -593,7 +581,6 @@ http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8
 http://95.141.35.86:8081/look/sportvr/playlist.m3u8
 
 #EXTINF:-1,ESPN (EM MANUNTECAO)
-
 
 #EXTINF:-1,ESPN BRASIL
 http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
