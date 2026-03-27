@@ -514,3 +514,61 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP225-Vida_de_gato_
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP226-Vida_selvagem.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/looney-tunes.jpg" group-title="Looney Tunes",EP227-Visita_indesejada
 https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP227-Visita_indesejada.mkv
+##########################################################################################################################################3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/sbt.png" group-title="🌎Variedades", SBT (MA)
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/sbt.png" group-title="🌎Variedades", SBT (BA)
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png" group-title="🌎Variedades", Record TV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png" group-title="🌎Variedades", Record TV (PB)
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png" group-title="🌎Variedades", Record TV (RN)
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades", Band (RBA TV)
+https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades", Band (PA) 2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades",Band (PE) 
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="🌎Variedades",Band - TV Arapuan (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="🌎Variedades",RedeTV! (PR)
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="🌎Variedades", RedeTV!
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv-cultura-logo.png" group-title="🌎Variedades", TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv-cultura-logo.png" group-title="🌎Variedades", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tv-cultura-logo.png" group-title="🌎Variedades", Catve Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gazeta.png" group-title="🌎Variedades", TV Gazeta (PA)
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gazeta.png" group-title="🌎Variedades", TV Gazeta (MA)
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/terraviva.png" group-title="🌎Variedades",Terra Viva
+https://www.dailymotion.com/cdn/live/video/x8qceqq.m3u8?sec=9_AIIjp5UcOkDd9eMF0Og3nl9C2KTQBvJcZz3HcTlSQoTZ076xYC30larI-iIUplO3_qbrpcDl7mcB-ibxjOow&dmTs=11772&dmV1st=0B615F9E6BD4BC9A1216239E228F86C7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/futura.png" group-title="🌎Variedades",FDR - Futura
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/canalrural.png" group-title="🌎Variedades", Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/brsupertv.png" group-title="🌎Variedades", BRSUPER TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcariri.png" group-title="🌎Variedades", Cariri TV
+https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w1172451183.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvpadrecicero.png" group-title="🌎Variedades", TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rftv.png" group-title="🌎Variedades", RFTV
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/utvbrasil.png" group-title="🌎Variedades",Rede UTV Brasil
+https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/chunklist_w955987097.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="🌎Variedades", TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redebrasil.png" group-title="🌎Variedades", Rede Brasil
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1476653929.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcamara.png" group-title="🌎Variedades", TV Camera
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.png" group-title="🌎Variedades", Canal gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/playtv.png" group-title="🌎Variedades", Play TV
