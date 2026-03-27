@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/475076_1084421648004e8aac28f44f7deaa3e8~mv2.png" group-title="PL ⭐ SPORT",SPORTV
 http://lphas.click:80/4199922241/awsedc1485/27530844.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/475076_ad9d619b5acb455baf156909d507ea88~mv2.png" group-title="PL ⭐ SPORT",ESPN
-http://needsorinletsgo.store.global.prod.fastly.net/live3/espn/play2.m3u8?token=1774200977_591c8ffa998ebde3b6583f4c2af18ab385f1d668
+http://95.141.35.86:8081/look/sptvl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 2
 http://needsorinletsgo.store.global.prod.fastly.net/live3/z_espn2/play2.m3u8?token=1774204299_880c49eb76c3ed531133f3c863d92a75de9196c1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 3
