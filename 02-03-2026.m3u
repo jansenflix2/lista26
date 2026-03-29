@@ -8,16 +8,16 @@ http://95.141.35.86:8081/look/sptvl/playlist.m3u8
 http://167.250.223.24:8085/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 2
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 22
-http://181.205.130.192:4000/play/a07i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",NOW SPORTS 2
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",MAX SPORT 3
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",SSPORT 1
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE 2
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774210931_0f37cb97593296079d016439753768c25feef7ce
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE 3
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere3/play2.m3u8?token=1774212224_2f703f4e90ebe7966daf0edbe3f254197bd2e353
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",Fox Sports
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19143/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",Equipe
+https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE 4
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere4/play2.m3u8?token=1774212402_8e6e9284cb113d156199b0ff4a1f454e4a026619
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",AMAZON PRIME
