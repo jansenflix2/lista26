@@ -9,9 +9,9 @@ http://167.250.223.26:8085/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN 2
 http://181.205.130.194:4000/play/a07i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",MAX SPORT 3
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",ESPN
-http://needsorinletsgo.store.global.prod.fastly.net/live1/espn/play1.m3u8?token=1774216297_73d26393dee529f0e646ba8ed085d87515aac600
+http://77.46.130.252:98/maxsport3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",SSPORT 1
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE 2
 http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere2/play2.m3u8?token=1774210931_0f37cb97593296079d016439753768c25feef7ce
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="PL ⭐ SPORT",PREMIERE 3
